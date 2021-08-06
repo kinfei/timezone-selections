@@ -1,7 +1,5 @@
 # timezone-selections
 
-# portfolio
-
 To showcase populate timezone list with moment.js into dropdown list
 
 View https://kinfei.github.io/timezone-selections/
