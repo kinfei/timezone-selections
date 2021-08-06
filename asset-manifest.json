@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/timezone-selections/static/css/main.652a9ee7.chunk.css",
+    "main.js": "/timezone-selections/static/js/main.ef70c506.chunk.js",
+    "main.js.map": "/timezone-selections/static/js/main.ef70c506.chunk.js.map",
+    "runtime-main.js": "/timezone-selections/static/js/runtime-main.f14e7e25.js",
+    "runtime-main.js.map": "/timezone-selections/static/js/runtime-main.f14e7e25.js.map",
+    "static/css/2.35fcc229.chunk.css": "/timezone-selections/static/css/2.35fcc229.chunk.css",
+    "static/js/2.1e0ec42a.chunk.js": "/timezone-selections/static/js/2.1e0ec42a.chunk.js",
+    "static/js/2.1e0ec42a.chunk.js.map": "/timezone-selections/static/js/2.1e0ec42a.chunk.js.map",
+    "index.html": "/timezone-selections/index.html",
+    "precache-manifest.3c1d7bf24c7db2138b0aaabc5ec4cb66.js": "/timezone-selections/precache-manifest.3c1d7bf24c7db2138b0aaabc5ec4cb66.js",
+    "service-worker.js": "/timezone-selections/service-worker.js",
+    "static/css/2.35fcc229.chunk.css.map": "/timezone-selections/static/css/2.35fcc229.chunk.css.map",
+    "static/css/main.652a9ee7.chunk.css.map": "/timezone-selections/static/css/main.652a9ee7.chunk.css.map",
+    "static/js/2.1e0ec42a.chunk.js.LICENSE.txt": "/timezone-selections/static/js/2.1e0ec42a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f14e7e25.js",
+    "static/css/2.35fcc229.chunk.css",
+    "static/js/2.1e0ec42a.chunk.js",
+    "static/css/main.652a9ee7.chunk.css",
+    "static/js/main.ef70c506.chunk.js"
+  ]
+}
