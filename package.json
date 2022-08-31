@@ -10,7 +10,7 @@
     "antd": "4.2.0",
     "lodash": "4.17.21",
     "moment": "2.29.4",
-    "moment-timezone": "0.5.28",
+    "moment-timezone": "0.5.35",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-scripts": "3.4.1"
